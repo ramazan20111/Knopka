@@ -1,1 +1,7 @@
-
+button{
+    background-color:green;
+    color:white;
+    padding:7px 20px;
+    border-none;
+    bord3r-radius:4px
+}
